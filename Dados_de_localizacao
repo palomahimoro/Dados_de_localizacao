@@ -1,0 +1,38 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
+#Dados de Localização
+
+
+# In[4]:
+
+
+country= "USA"
+
+
+# In[5]:
+
+
+state = "Florida"
+
+
+# In[6]:
+
+
+city = "Miami"
+
+
+# In[7]:
+
+
+continent = "North America"
+
+
+# In[ ]:
+
+
+
+
